@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Order Management System (SQL Project)
+# E-Commerce Order Management System (SQL Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a real-world e-commerce database system.  
 It demonstrates relational database design, multi-table joins, revenue analytics, and business-focused SQL queries.
@@ -16,7 +16,7 @@ The system manages:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a normalized relational database schema
 - Implement Primary and Foreign Key relationships
@@ -26,7 +26,7 @@ The system manages:
 
 ---
 
-## 🗄 Database Schema
+## Database Schema
 
 The project includes the following tables:
 
@@ -45,7 +45,7 @@ Relationships:
 
 ---
 
-## 🔎 Key SQL Concepts Used
+## Key SQL Concepts Used
 
 - INNER JOIN
 - LEFT JOIN
@@ -58,7 +58,7 @@ Relationships:
 
 ---
 
-## 📊 Business Insights Generated
+## Business Insights Generated
 
 - Total Revenue
 - Revenue per Order
@@ -71,7 +71,7 @@ Relationships:
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 
 - Relational Database Design
 - Business Analytics using SQL
@@ -81,9 +81,22 @@ Relationships:
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 Completed.
 
 This project is part of a structured AI/ML learning roadmap connecting:
 SQL → Data Analysis → Machine Learning.
+
+---
+
+## Sample Output
+
+### Top 3 Customers by Spending
+![Top Customers](images/top_customers.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](images/monthly_revenue.png)
+
+### Revenue by Category
+![Revenue by Category](images/revenue_by_category.png)
